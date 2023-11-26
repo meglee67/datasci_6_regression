@@ -1,6 +1,6 @@
 # datasci_6_regression
 * Due Nov 10
-* HHA 507 HW 6B
+* HHA 507 HW 6B/ kinda HW 7 (labelled assignment 7 in Brightspace)
 * Assignment details below
 
 <br>
